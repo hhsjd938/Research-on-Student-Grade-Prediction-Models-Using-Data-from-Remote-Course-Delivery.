@@ -2,6 +2,8 @@
 
 # 遠距課程學生成績預測與學習行為分析
 
+**2024 中部五校教育大數據微學程聯合成果展－銀獎**
+
 [繁體中文](#zh-tw) | [English](#english)
 
 這是我的教育大數據研究個人作品集，整合我參與的 MLP、邏輯迴歸、成績迴歸、CFT 組合融合及 XGBoost＋SHAP。透過遠距課程的學習行為紀錄，預測課程成績與學生是否及格，並分析特徵對模型預測的貢獻。
@@ -112,6 +114,8 @@ MLP 輸出模型權重、前處理器、訓練紀錄、含混淆矩陣的評估�
 <a id="english"></a>
 
 # Student Grade Prediction and Learning Behavior Analysis in Remote Courses
+
+**Silver Award — 2024 Joint Exhibition of the Educational Big Data Microprogram across Five Universities in Central Taiwan**
 
 [繁體中文](#zh-tw) | [English](#english)
 
