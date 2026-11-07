@@ -101,7 +101,7 @@ MLP 輸出模型權重、前處理器、訓練紀錄、含混淆矩陣的評估�
 
 ## 成果展海報
 
-2024 中部五校教育大數據微學程聯合成果展。海報呈現研究目標、方法與展示結果；模型效能請以各次實驗的資料切分、設定及測試指標為準，海報數值不作為程式執行效能的保證。
+2024 中部五校教育大數據微學程聯合成果展-銀獎。海報呈現研究目標、方法與展示結果。
 
 [開啟高解析度圖片](docs/asia-university-research-poster.png) · [下載 PDF](docs/asia-university-research-poster.pdf)
 
@@ -212,7 +212,7 @@ The research data lacks verifiable unique student identifiers and a consistent p
 
 ## Exhibition Poster
 
-Presented at the 2024 joint exhibition of the Educational Big Data Microprogram across five universities in central Taiwan. The poster presents the research objectives, methods, and exhibition results. Assess model performance using each experiment's data split, settings, and test metrics; the poster's figures are not a guarantee of performance when running the code.
+Silver Award at the 2024 joint exhibition of the Educational Big Data Microprogram across five universities in central Taiwan. The poster presents the research objectives, methods, and exhibition results.
 
 [Open high-resolution image](docs/asia-university-research-poster.png) · [Download PDF](docs/asia-university-research-poster.pdf)
 
